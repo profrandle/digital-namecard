@@ -7,8 +7,8 @@ ORG:Texas Southern University;
 TITLE:Visiting Assistant Professor\nStudent Publications Faculty Advisor
 EMAIL;type=INTERNET;type=WORK;type=pref:ladonia.randle@tsu.edu
 TEL;type=WORK;type=VOICE:+1 713 313 7420
-item1.ADR;type=WORK;type=pref:;;3100 Cleburne Street \Houston, Texas 77004\, Currently working remote
+item1.ADR;type=WORK;type=pref:;;Schedule an appointment
 item1.X-ABADR:sg
-item2.URL;type=pref:https://www.linkedin.com/in/ladoniarandle/
+item2.URL;type=pref:https://get-it-done-with-randle.appointlet.com/s/15-minutes
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
